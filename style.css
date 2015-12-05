@@ -1,0 +1,93 @@
+@font-face {
+	font-family: 'iconThai';
+	src:url('fonts/iconThai.eot?1phl22');
+	src:url('fonts/iconThai.eot?1phl22#iefix') format('embedded-opentype'),
+		url('fonts/iconThai.ttf?1phl22') format('truetype'),
+		url('fonts/iconThai.woff?1phl22') format('woff'),
+		url('fonts/iconThai.svg?1phl22#iconThai') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="iconThai-"], [class*=" iconThai-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'iconThai' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.iconThai-bhumibhol-bridge:before {
+	content: "\e900";
+}
+.iconThai-biyoke:before {
+	content: "\e901";
+}
+.iconThai-buddah-head:before {
+	content: "\e902";
+}
+.iconThai-buddah-montol:before {
+	content: "\e903";
+}
+.iconThai-democracy-monument:before {
+	content: "\e904";
+}
+.iconThai-doi-suthep:before {
+	content: "\e905";
+}
+.iconThai-golden-mount:before {
+	content: "\e906";
+}
+.iconThai-hualamphong:before {
+	content: "\e907";
+}
+.iconThai-mahanakorn:before {
+	content: "\e908";
+}
+.iconThai-monk:before {
+	content: "\e909";
+}
+.iconThai-myanmar-style-temple:before {
+	content: "\e90a";
+}
+.iconThai-pang-leela:before {
+	content: "\e90b";
+}
+.iconThai-pang-marnwichai:before {
+	content: "\e90c";
+}
+.iconThai-pathomjade:before {
+	content: "\e90d";
+}
+.iconThai-rama5:before {
+	content: "\e90e";
+}
+.iconThai-rama8-bridge:before {
+	content: "\e90f";
+}
+.iconThai-temple:before {
+	content: "\e910";
+}
+.iconThai-thammasat:before {
+	content: "\e911";
+}
+.iconThai-tuktuk:before {
+	content: "\e912";
+}
+.iconThai-victory-monument:before {
+	content: "\e913";
+}
+.iconThai-wat-arun:before {
+	content: "\e914";
+}
+.iconThai-wat-prakaew:before {
+	content: "\e915";
+}
+
